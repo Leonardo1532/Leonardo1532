@@ -23,9 +23,9 @@
 🚀Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no meu tempo livre. É um prazer fazer parte da comunidade do GitHub!
 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades de desenvolvimento. Se você está interessado em colaborar em projetos ou apenas quer trocar ideias sobre tecnologia, fique à vontade para entrar em contato comigo!
 
-💻 Desenvolvo utilizando as seguintes tecnologias:
-
 ---
+
+💻 Desenvolvo utilizando as seguintes tecnologias:
 
 <div>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
