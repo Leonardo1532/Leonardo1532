@@ -10,7 +10,17 @@
 
 ---
 
-Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no meu tempo livre. É um prazer fazer parte da comunidade do GitHub!
+- 21 anos
+
+- 📍São Paulo - SP
+
+- 🎓 Estudando Desenvolvimento Full Stack
+
+- 🤑 A procura por vaga Dev Júnior
+
+---
+
+🚀Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no meu tempo livre. É um prazer fazer parte da comunidade do GitHub!
 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades de desenvolvimento. Se você está interessado em colaborar em projetos ou apenas quer trocar ideias sobre tecnologia, fique à vontade para entrar em contato comigo!
 
 💻 Desenvolvo utilizando as seguintes tecnologias:
@@ -23,6 +33,7 @@ Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
