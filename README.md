@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width = "325px" align = "right">
+<img src = "https://github.com/risoflorais/risoflorais/blob/main/banner.gif" width = "325px" align = "right">
 
 <h1 align="left">Opa,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">me chamo Leonardo, é um prazer receber você aqui!</h1>
 
@@ -8,6 +8,8 @@
   </a>
 </div>
 
+---
+
 Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no meu tempo livre. É um prazer fazer parte da comunidade do GitHub!
 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades de desenvolvimento. Se você está interessado em colaborar em projetos ou apenas quer trocar ideias sobre tecnologia, fique à vontade para entrar em contato comigo!
 
@@ -16,7 +18,7 @@ Sou um entusiasta de tecnologia apaixonado por estudar e desenvolver projetos no
 ---
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
