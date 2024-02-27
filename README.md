@@ -3,18 +3,18 @@
 <h1 align="left">Opa,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">me chamo Leonardo, é um prazer receber você aqui!</h1>
 
   <div id="badges">
-  <a href = "www.linkedin.com/in/leonardo-silva1532">
+  <a href = "https://www.linkedin.com/in/leonardo-silva1532">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ---
 
-- 21 anos
+- 🎓 21 anos
 
 - 📍São Paulo - SP
 
-- 🎓 Estudando Desenvolvimento Full Stack
+- 💻 Estudando Desenvolvimento Full Stack
 
 - 🤑 A procura por vaga Dev Júnior
 
