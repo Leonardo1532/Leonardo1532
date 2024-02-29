@@ -1,4 +1,4 @@
-<img src = "https://github.com/risoflorais/risoflorais/blob/main/banner.gif" width = "325px" align = "right">
+<img src = "https://github.com/risoflorais/risoflorais/blob/main/banner.gif" width = "320px" align = "right">
 
 <h1 align="left">Opa,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">me chamo Leonardo, é um prazer receber você aqui!</h1>
 
